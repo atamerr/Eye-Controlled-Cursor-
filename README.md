@@ -18,8 +18,3 @@ An AI-powered application that allows users to control their mouse cursor using 
 You can download the stable executable version from the **[Releases](https://github.com/atamerr/Eye-Controlled-Cursor-/releases)** section. 
 * *No Python installation required.*
 
-### 2. Run from Source
-If you prefer running the code manually:
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/atamerr/Eye-Controlled-Cursor-.git](https://github.com/atamerr/Eye-Controlled-Cursor-.git)
