@@ -16,5 +16,4 @@ An AI-powered application that allows users to control their mouse cursor using 
 
 ### 1. Ready-to-Run (.exe)
 You can download the stable executable version from the **[Releases](https://github.com/atamerr/Eye-Controlled-Cursor-/releases)** section. 
-* *No Python installation required.*
 
